@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vixrad
-- 👀 I’m interested in Python, SQL, and JavaScript.
-- 🌱 I’m currently learning Python and SQL.
+- 👀 I’m interested in Python and JavaScript.
 - 💞️ I’m looking to collaborate on innovative solutions and solving real problems.
 - 📫 Get in touch on v.radin1718@gmail.com
 
